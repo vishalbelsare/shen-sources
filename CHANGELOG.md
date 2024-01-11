@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 
 ## [Unreleased]
 
+### Changed
+
+- Replaced factorisation algorithm with a simplified, improved version.
+
 ## [36.0] - 2024-01-10
 
 ### Changed
